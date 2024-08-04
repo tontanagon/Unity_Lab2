@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TurretControl1 : MonoBehaviour
 {
-    public Transform barrel;
+    private Transform barrel;
     public float min = -30;
     public float max = 30;
 
